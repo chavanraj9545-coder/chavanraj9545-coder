@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./raj.gif" width="100%" alt="Pruthviraj Chavan Banner">
+</p>
 <h1 align="center">Hi 👋 I'm Pruthviraj Chavan</h1>
 
 <h3 align="center">
